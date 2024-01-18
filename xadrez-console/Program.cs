@@ -39,9 +39,6 @@ try
     }
     Console.Clear();
     Tela.imprimirPartida(partida);
-
-
-
     Console.ReadLine();
 }
 

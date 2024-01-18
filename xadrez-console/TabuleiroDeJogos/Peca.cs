@@ -24,7 +24,7 @@ namespace TabuleiroDeJogos
         { 
             qteMovimentos++;
         }
-        public void dencrementarQtdDeMovimento()
+        public void decrementarQtdDeMovimento()
         {
             qteMovimentos--;
         }
